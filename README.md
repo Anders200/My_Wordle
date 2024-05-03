@@ -12,3 +12,6 @@ The project is a simple game called "My Wordle". The game involves guessing a wo
 - CSS
 - JavaScript
 - APIs
+
+https://anders200.github.io/My_Wordle/
+
